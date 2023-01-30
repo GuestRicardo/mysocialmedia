@@ -1,6 +1,6 @@
 
 body{
-    background: linear-gradient(rgb(29, 29, 29), rgb(124, 119, 124), rgb(29, 29, 29));
+    background: linear-gradient(rgb(29, 29, 29), rgb(124, 119, 124),  rgb(124, 119, 124),  rgb(124, 119, 124), rgb(29, 29, 29));
 
 }
 
@@ -9,7 +9,7 @@ h1{
     font-size: 60px;
     font-family: 'Roboto', sans-serif;
     color: rgb(255, 255, 255);
-    margin-bottom: -7px;
+    margin-bottom: -2px;
     
 }
 
